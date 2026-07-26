@@ -1,2 +1,2 @@
-# Expanse-Tracker
+# Expense-Tracker
 My first expanse tracker built using HTML, CSS and Javascript
